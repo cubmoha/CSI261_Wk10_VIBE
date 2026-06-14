@@ -1,0 +1,3 @@
+name|id|test1|test2|test3|average|grade
+Mohammed Mills|01111|60.00|69.00|70.00|66.33|D
+Jose Hernandez|02222|90.00|90.00|80.00|86.67|B
